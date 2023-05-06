@@ -5,7 +5,7 @@
   "name": "Brazil Gross Domestic Product, 1 Decimal",
   "urlize_name": "Brazil-Gross-Domestic-Product-1-Decimal",
   "display_url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BR",
-  "description": "Units: Billions of Dollars\Annual Adjustment: Annual Rate",
+  "description": "Units: Billions of Dollars",
   "updated_at": "2023-05-05T13:36:28.561Z",
   "frequency": "annual",
   "from_date": "1960",
